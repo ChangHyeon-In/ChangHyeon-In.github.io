@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 <div class="container docs-container">
@@ -24,6 +24,9 @@ layout: default
             </article>
         </div>
       </div>
+        {% if site.disqus-shortname %}
+          {% include disqus.html%}
+        {% endif %}
     </div>
   </div>
 </div>
