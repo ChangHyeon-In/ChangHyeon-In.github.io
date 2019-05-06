@@ -6,10 +6,7 @@ categories: Test
 tag: Test
 ---
 
-* content
-{:toc}
 
 #이 글은 연습용 입니다.
-##연습용 글
-###연습용
+
 $$$\sqrt{3x-1}+(1+x)^2$$$
