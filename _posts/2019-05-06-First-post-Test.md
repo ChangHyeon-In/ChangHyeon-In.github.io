@@ -7,6 +7,21 @@ tag: Test
 ---
 
 
-#이 글은 연습용 입니다.
+# Header 1
+## Header 2
+*Emphasize*
+++ Underline++
+~~Strikethrough~~
+==highlight==
+^superscript^
+~subscript~
 
-$$$\sqrt{3x-1}+(1+x)^2$$$
+1. Order List
+- [Task List]
+$$$(1+x)^2$$$
+```
+int main(void)
+{
+	return 0;
+}
+```
